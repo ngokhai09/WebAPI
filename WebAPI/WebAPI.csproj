@@ -89,6 +89,7 @@
   <ItemGroup>
     <Content Include="Global.asax" />
     <Content Include="Index.html" />
+    <Content Include="View\MapboxTest.html" />
     <Content Include="View\SanPham.html" />
     <Content Include="Web.config" />
   </ItemGroup>
